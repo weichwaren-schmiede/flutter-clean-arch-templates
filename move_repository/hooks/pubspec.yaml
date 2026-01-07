@@ -9,5 +9,5 @@ dependencies:
     git:
       url: https://github.com/weichwaren-schmiede/flutter-clean-arch-templates.git
       path: template_utils
-      ref: 'main'
+      ref: '93408da19bcc0832966900ab42a71a2e8f76507c'
   mason: any

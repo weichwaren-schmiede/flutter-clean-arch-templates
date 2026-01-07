@@ -181,8 +181,8 @@ packages:
     dependency: "direct main"
     description:
       path: template_utils
-      ref: main
-      resolved-ref: "6392da27c82ca83dc7abcea0f07e16e8a0c804fe"
+      ref: "93408da19bcc0832966900ab42a71a2e8f76507c"
+      resolved-ref: "93408da19bcc0832966900ab42a71a2e8f76507c"
       url: "https://github.com/weichwaren-schmiede/flutter-clean-arch-templates.git"
     source: git
     version: "1.0.0"
