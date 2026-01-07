@@ -1,4 +1,4 @@
-import 'package:recase/recase.dart';
+import 'package:mason/mason.dart';
 
 String featureMockDefinitionsTemplate = '''
 import 'package:mocktail/mocktail.dart';
