@@ -1,10 +1,10 @@
 name: page
 description: Creates Page, Presenter, PresentationModel and relevant tests. Registers the whole structure in getIt dependency graph.
 
-version: 0.1.0+1
+version: 0.2.0+1
 
 environment:
-  mason: ">=0.1.0-dev.26 <0.1.0"
+  mason: ">=0.1.0 <0.2.0"
 
 vars:
   root_folder_path:

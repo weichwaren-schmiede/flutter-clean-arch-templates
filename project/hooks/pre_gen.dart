@@ -2,7 +2,6 @@
 import 'dart:io';
 
 import 'package:mason/mason.dart';
-import 'package:recase/recase.dart';
 
 Future<void> run(HookContext context) async {
   context.vars['activity_path'] =

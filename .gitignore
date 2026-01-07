@@ -10,8 +10,6 @@
 .svn/
 .vscode/
 
-.fvm/flutter_sdk
-
 lib/generated/
 
 **/*.g.dart
@@ -145,3 +143,6 @@ fabric.properties
 modules.xml
 .idea/inspectionProfiles
 **/hooks/build/**
+
+# FVM Version Cache
+.fvm/

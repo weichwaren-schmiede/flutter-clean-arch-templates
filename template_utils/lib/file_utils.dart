@@ -4,7 +4,6 @@ import 'dart:io';
 import 'package:async/async.dart';
 import 'package:mason/mason.dart';
 import 'package:path/path.dart' as path_lib;
-import 'package:recase/recase.dart';
 import 'package:template_utils/feature_templates.dart';
 import 'package:template_utils/template_utils.dart';
 
