@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:recase/recase.dart';
+import 'package:mason/mason.dart';
 import 'package:template_utils/file_utils.dart';
 import 'package:template_utils/replacements_utils.dart';
 
